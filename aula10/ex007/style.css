@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+    font: normal 18pt Arial;
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+
+}
+
+input{
+    font: normal 18pt Arial;
+    width: 100px;
+}
+
+div#res{
+    color: aliceblue;
+    margin-top: 20px;
+}
